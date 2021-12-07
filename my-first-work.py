@@ -1,8 +1,5 @@
-i = 5
-print(i)
-i = i + 1
-print(i)
+for i in range(0, 5):
+    print(i)
+else:
+    print("The loop is over")
 
-s = '''This is the multi-line string.
-This is the second line'''
-print(s)
