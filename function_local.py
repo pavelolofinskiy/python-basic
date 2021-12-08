@@ -7,6 +7,5 @@ def func(x):
     print('changed local x to', x)
 
 
-
 func(x)
 print('x is still', x)
