@@ -1,0 +1,1 @@
+Hi! I made this repo in goal for make history about my study. It's representation of part of my knowledge.
